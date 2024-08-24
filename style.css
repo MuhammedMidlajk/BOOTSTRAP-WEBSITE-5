@@ -1,0 +1,196 @@
+*{
+
+    padding: 0;
+    margin: 0;
+}
+.nav a{
+
+    color: black;
+}
+.sign img{
+
+    width: 40px;
+    
+}
+
+.bucket img{
+
+    width: 40px;
+   
+}
+.did{
+
+    border-left: solid 1px lightgrey;
+    height: 40px;
+    
+}
+.navbar{
+    
+    width: 100%;
+    height: 100px;
+    border: 1px solid lightgray;
+    display: flex !important;
+    justify-content: center !important;
+    position: fixed;
+}
+
+.div1{
+
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+.boxtwo{
+
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+.boxtwo h6{
+
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+
+}
+.buttn{
+
+    display: flex;
+    justify-content: center;
+    margin-left: 30%;
+    margin-top: -40px;
+}
+.buttn button{
+
+width: 130px;
+height: 40px;
+background-color: red;
+border: none;
+}
+.boxthree{
+
+    width: 100%;
+    height: auto;
+}
+.boxthree img{
+
+    width: 100%;
+}
+.boxfour {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.boxfour h2{
+
+    margin-left: 50px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    letter-spacing: -1px;
+    margin-bottom: 40px;
+    
+}
+.menu{
+
+   width: 80%;
+   height: 500px;
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   grid-template-rows: 1fr 1fr;
+   
+}
+.core img{
+
+    width: 289px;
+    height: 70%;
+}
+.intel{
+
+    margin-top: 20px;
+}
+
+.menubox{
+
+    height: 250px;
+    width: 250px;
+    border: solid 1px;
+
+}
+.final{
+    width: 100%;
+    height: 400PX;
+    background-color: rgb(0, 0, 0) !important;
+    margin-top: 46PX;
+
+}
+.last{
+
+    margin-left: 200px;
+    padding-top: 30px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.last1 img{
+
+    width: 60px;
+    margin-top: 50px;
+    margin-left: 120px;
+    
+}
+
+.finalwork{
+
+    display: flex;
+
+}
+.altis p{
+
+
+    margin-left: 30px;
+    font-weight: bolder;
+    color: white;
+}
+.altis {
+
+    margin-left: 100px;
+    margin-top: 40px;
+   
+}
+.altis ul {
+
+    list-style: none;
+    
+}
+.altis a{
+    
+    text-decoration: none;
+    color: rgb(251, 250, 250);
+
+}
+.bmw img{
+
+    
+    width: 200px;
+   padding-left: 80px;
+   margin-left: 150px;
+   position: absolute;
+   left: 900px;
+   
+}
+.mansoory2 img{
+
+    width: 200px;
+    padding-left: 80px;
+    margin-left: 500px;
+    border-radius: 10px;
+    margin-top: 25px;
+
+
+}
